@@ -1,7 +1,7 @@
 name: reactive_bloc
-description: A sample command-line application with basic argument parsing.
+description: A dart package that provides a reactive way to work with BLoC pattern.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/tremaze/reactive_bloc_dart
 
 environment:
   sdk: ^3.3.0
